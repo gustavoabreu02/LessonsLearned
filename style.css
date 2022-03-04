@@ -5,15 +5,35 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #23FD9B;
+    background-color: #2e315b;
     width: 92.5%;
     padding: 60px;
-    border: 10px solid black;
-    color: black;
+    border: 10px solid #342623;
+    color: #cbc2c1;
     font-size: 20px;
 }
 #titulo {
     text-align: center;
     margin-top: -50px;
+}
+#minha_foto {
+    width: 250px;
+    position: absolute;
+    top: 200px;
+    border-radius: 100%;
+    left: 10%;
+    border: 10px solid #342623;
+}
+#gustavo_link {
+    position: absolute;
+    top: 500px;
+    left: 9.9%;
+    font-size: 40px;
+    padding: 20px;
+    background-color: #2e315b;
+    border: 5px solid #342623;
+    border-radius: 0%;
+    color: #cbc2c1;
+    text-decoration: none;
 }
 
