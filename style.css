@@ -7,7 +7,7 @@ body {
     left: 0;
     background-color: #2e315b;
     width: 92.5%;
-    padding: 60px;
+    padding: 57px;
     border: 10px solid #342623;
     color: #cbc2c1;
     font-size: 20px;
@@ -35,5 +35,34 @@ body {
     border-radius: 0%;
     color: #cbc2c1;
     text-decoration: none;
+}
+#licoes_aprendidas {
+    font-size: 30px;
+    top: 500px;
+    position: absolute;
+    left: 50.8%;
+    color: #2e315b;
+    list-style: none;
+}
+div {
+    padding: 2000px;
+    border: 10px solid #342623;
+    position: fixed;
+    left: -3400px;
+    top: 133.5px;
+    
+}
+#titulo_licoes {
+    font-size: 30px ;
+    position: absolute;
+    top: 450px;
+    left: 53%;
+    color: #342623;
+}
+#logo_trybe {
+    width: 400px;
+    position: absolute;
+    left: 60%;
+    top: 170px;
 }
 
