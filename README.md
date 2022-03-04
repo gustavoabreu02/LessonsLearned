@@ -82,7 +82,7 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ## Data de Entrega
 
-  - Serão `1` dia de projeto.
+  - Será `1` dia de projeto.
   - Data de entrega para avaliação final do projeto: `11/03/2022 14:00`.
 
 ---
