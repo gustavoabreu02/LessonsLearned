@@ -27,7 +27,7 @@ body {
 #gustavo_link {
     position: absolute;
     top: 500px;
-    left: 9.9%;
+    left: 9.2%;
     font-size: 40px;
     padding: 20px;
     background-color: #2e315b;
@@ -39,7 +39,7 @@ body {
 #licoes_aprendidas {
     font-size: 30px;
     top: 500px;
-    position: absolute;
+    position: fixed;
     left: 50.8%;
     color: #2e315b;
     list-style: none;
@@ -54,7 +54,7 @@ div {
 }
 #titulo_licoes {
     font-size: 30px ;
-    position: absolute;
+    position: fixed;
     top: 450px;
     left: 53%;
     color: #342623;
