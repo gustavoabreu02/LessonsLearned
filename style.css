@@ -19,14 +19,14 @@ body {
 #minha_foto {
     width: 250px;
     position: absolute;
-    top: 200px;
+    top: 150px;
     border-radius: 100%;
     left: 10%;
     border: 10px solid #342623;
 }
 #gustavo_link {
     position: absolute;
-    top: 500px;
+    top: 440px;
     left: 9.2%;
     font-size: 40px;
     padding: 20px;
@@ -37,10 +37,10 @@ body {
     text-decoration: none;
 }
 #licoes_aprendidas {
-    font-size: 30px;
-    top: 500px;
+    font-size: 25px;
+    top: 620px;
     position: fixed;
-    left: 50.8%;
+    left: 0;
     color: #2e315b;
     list-style: none;
 }
@@ -55,14 +55,29 @@ div {
 #titulo_licoes {
     font-size: 30px ;
     position: fixed;
-    top: 450px;
-    left: 53%;
+    top: 570px;
+    left: 2%;
     color: #342623;
 }
 #logo_trybe {
-    width: 400px;
+    width: 300px;
     position: absolute;
-    left: 60%;
-    top: 170px;
+    left: 82%;
+    top: 140px;
+}
+#licoes_a_aprender {
+    font-size: 25px;
+    top: 620px;
+    position: fixed;
+    left: 18%;
+    color: #2e315b;
+    list-style: none;
+}
+#titulo_a_aprender {
+    font-size: 30px ;
+    position: fixed;
+    top: 570px;
+    left: 20%;
+    color: #342623;
 }
 
