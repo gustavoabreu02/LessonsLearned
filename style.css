@@ -9,7 +9,7 @@ body {
     width: 92.5%;
     padding: 57px;
     border: 10px solid #342623;
-    color: #cbc2c1;
+    color: rgb(253, 251, 251);
     font-size: 20px;
 }
 #titulo {
@@ -33,7 +33,7 @@ body {
     background-color: #2e315b;
     border: 5px solid #342623;
     border-radius: 0%;
-    color: #cbc2c1;
+    color: rgb(253, 251, 251);
     text-decoration: none;
 }
 #licoes_aprendidas {
@@ -100,5 +100,27 @@ p, {
     text-align: left;
     display: block;
     margin-left: 20px;
+}
+#insta {
+    width: 100px;
+    border-radius: 30%;
+    position: absolute;
+    left: 70%;
+    top: 30px;
+}
+#linke {
+    width: 100px;
+    border-radius: 30%;
+    background-color: white;
+    position: absolute;
+    left: 40%;
+    top: 30px;
+}
+#git {
+    width: 100px;
+    border-radius: 30%;
+    left: 55%;
+    position: absolute;
+    top: 30px;
 }
 
