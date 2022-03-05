@@ -87,13 +87,13 @@ div, {
     width: 100%;
     margin-left: -10px;
 }
-p, {
-    text-align: right;
+p {
+    text-align: left;
     font-size: 30px;
     width: 50%;
     position: absolute;
-    left: 500px;
-    top: 1000px;
+    left: 520px;
+    top: 200px;
 }
 #contato {
     color: rgb(253, 251, 251);
@@ -122,5 +122,26 @@ p, {
     left: 55%;
     position: absolute;
     top: 30px;
+}
+#texto_trybe {
+    text-align: left;
+    font-size: 30px;
+    width: 50%;
+    position: absolute;
+    left: 700px;
+    top: 650px;
+}
+#titulo_trybe {
+    text-align: left;
+    font-size: 40px;
+    width: 50%;
+    position: absolute;
+    left: 700px;
+    top: 590px;
+    
+}
+#trybe_link {
+    color: #2fc18c;
+    text-decoration: none;
 }
 
