@@ -27,13 +27,13 @@ body {
     position: absolute;
     top: 150px;
     border-radius: 100%;
-    left: 10%;
+    left: 8%;
     border: 10px solid #342623;
 }
 #gustavo_link {
     position: absolute;
     top: 440px;
-    left: 9.2%;
+    left: 7.2%;
     font-size: 40px;
     padding: 20px;
     background-color: #2e315b;
